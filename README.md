@@ -1,6 +1,3 @@
-# Jarvis-AI
-Jarvis AI Bot created using Python
-
 # AI Jarvis Project
 
 This project is an AI-powered virtual assistant named Jarvis, capable of performing various tasks such as web browsing, playing music, fetching news, and more. It integrates speech recognition, text-to-speech conversion, and other functionalities.
