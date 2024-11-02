@@ -1,0 +1,11 @@
+set up virtual environment
+
+pip install speechrecognition pyaudio
+
+pip install openai
+
+pip install gTTs
+google text to speech
+webbrowser built in module in python
+
+
