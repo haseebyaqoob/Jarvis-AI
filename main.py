@@ -11,7 +11,7 @@ import os
 # GTTS GOOGLE TEXT TO SPEECH IS ALSO NOT FREE, JUST FREE UPTIL SOME CERTAIN STORAGE
 recognizer = sr.Recognizer() 
 engine = pyttsx3.init()
-newsapi = '9e432dfaf5af4525863905424c76da5d'
+newsapi = 'Enter your API'
 def speak_old(text):
     engine.say(text)
     engine.runAndWait()
